@@ -1,0 +1,23 @@
+# Large data files (download locally; do not commit — GitHub caps files at 100 MB)
+*.pkl
+*.pickle
+*.parquet
+*.h5
+*.hdf5
+*.npy
+*.npz
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Quarto build output
+/_site/
+/.quarto/
+_freeze/
+
+# macOS
+.DS_Store
