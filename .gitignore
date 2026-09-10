@@ -18,6 +18,8 @@ __pycache__/
 /_site/
 /.quarto/
 _freeze/
+/prompts.html
+/prompts_files/
 
 # macOS
 .DS_Store
