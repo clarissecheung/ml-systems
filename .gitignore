@@ -25,3 +25,6 @@ _freeze/
 .DS_Store
 
 **/*.quarto_ipynb
+
+# Office lock files and OS cruft
+~$*
