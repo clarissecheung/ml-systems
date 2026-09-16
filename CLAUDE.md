@@ -24,11 +24,12 @@ For every step:
    Plain language, concrete analogies, no jargon without unpacking it. Say *why* the step
    exists and what would go wrong without it.
 2. **Then** suggest code.
+3. **Leave space for questions.** Allow her to ask questions and push back on concepts, code, etc.
 
 Never lead with a code block. An explanation that assumes the concept is already understood
 is not an explanation.
 
 ## Pacing
 
-Work one cell at a time. Add a cell, stop, and let her run it before moving on. Don't
+Work one cell at a time. Add a cell, stop, let her run it, and ask questions before moving on. Don't
 pre-run cells or queue up the next several steps.
