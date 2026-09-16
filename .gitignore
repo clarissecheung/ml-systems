@@ -6,6 +6,7 @@
 *.hdf5
 *.npy
 *.npz
+docs/assignments/netdiffusion/nd_data/
 
 # Python
 .venv/
