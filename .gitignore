@@ -21,6 +21,8 @@ __pycache__/
 _freeze/
 /prompts.html
 /prompts_files/
+/CLAUDE.html
+/CLAUDE_files/
 
 # macOS
 .DS_Store
